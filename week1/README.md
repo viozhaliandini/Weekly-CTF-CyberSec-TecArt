@@ -127,27 +127,27 @@ strings strings | grep -E 'pico|flag|\{|\}'
 
 **Screenshot 1 — Tampilan Challenge**
 
-![Strings It 1](string-it-1.jpeg)
+![Strings It 1](strings-it/string-it-1.jpeg)
 
 **Screenshot 2 — Proses Pengerjaan**
 
-![Strings It 2](string-it-2.jpeg)
+![Strings It 2](strings-it/string-it-2.jpeg)
 
 **Screenshot 3 — Proses Pencarian Flag**
 
-![Strings It 3](string-it-3.jpeg)
+![Strings It 3](strings-it/string-it-3.jpeg)
 
 **Screenshot 4 — Menemukan Flag**
 
-![Strings It 4](string-it-4.jpeg)
+![Strings It 4](strings-it/string-it-4.jpeg)
 
 **Screenshot 5 — Hasil**
 
-![Strings It 5](string-it-5.jpeg)
+![Strings It 5](strings-it/string-it-5.jpeg)
 
 **Screenshot 6 — Submission / Correct**
 
-![Strings It 6](string-it-6.jpeg)
+![Strings It 6](strings-it/string-it-6.jpeg)
 
 ---
 
@@ -218,19 +218,19 @@ grep "FLAGPART" "/mnt/c/Users/Mybook Hype AMD/Downloads/server.log"
 
 **Screenshot 1 — Tampilan Challenge**
 
-![Log Hunt 1](log-hunt-1.jpeg)
+![Log Hunt 1](log-hunt/log-hunt-1.jpeg)
 
 **Screenshot 2 — Mencari FLAGPART**
 
-![Log Hunt 3](log-hunt-2.jpeg)
+![Log Hunt 3](log-hunt/log-hunt-2.jpeg)
 
 **Screenshot 3 — Hasil Pencarian**
 
-![Log Hunt 4](log-hunt-3.jpeg)
+![Log Hunt 4](log-hunt/log-hunt-3.jpeg)
 
 **Screenshot 4 — Submission / Correct**
 
-![Log Hunt 5](log-hunt-4.jpeg)
+![Log Hunt 5](log-hunt/log-hunt-4.jpeg)
 
 ---
 
@@ -297,23 +297,23 @@ chmod +x warm
 
 **Screenshot 1 — Tampilan Challenge**
 
-![Running Binary 1](running-binary-1.jpeg)
+![Running Binary 1](running-binary/running-binary-1.jpeg)
 
 **Screenshot 2 — File / Environment**
 
-![Running Binary 2](running-binary-2.jpeg)
+![Running Binary 2](running-binary/running-binary-2.jpeg)
 
 **Screenshot 3 — Menjalankan Binary**
 
-![Running Binary 3](running-binary-3.jpeg)
+![Running Binary 3](running-binary/running-binary-3.jpeg)
 
 **Screenshot 4 — Hasil**
 
-![Running Binary 4](running-binary-4.jpeg)
+![Running Binary 4](running-binary/running-binary-4.jpeg)
 
 **Screenshot 5 — Correct / Submission**
 
-![Running Binary 5](running-binary-5.jpeg)
+![Running Binary 5](running-binary/running-binary-5.jpeg)
 
 ---
 
@@ -417,23 +417,23 @@ Setelah jawaban dinyatakan benar dengan status **Correct!**, saya mendapatkan fl
 
 **Screenshot 1 — Tampilan Challenge**
 
-![Binhexa 1](binhexa-1.jpeg)
+![Binhexa 1](binhexa/binhexa-1.jpeg)
 
 **Screenshot 2 — Proses Pengerjaan dan Perhitungan di Ubuntu**
 
-![Binhexa 2](binhexa-2.jpeg)
+![Binhexa 2](binhexa/binhexa-2.jpeg)
 
 **Screenshot 3 — Lanjutan Perhitungan dan Hasil Hexadecimal di Ubuntu**
 
-![Binhexa 3](binhexa-3.jpeg)
+![Binhexa 3](binhexa/binhexa-3.jpeg)
 
 **Screenshot 4 — Hasil**
 
-![Binhexa 4](binhexa-4.jpeg)
+![Binhexa 4](binhexa/binhexa-4.jpeg)
 
 **Screenshot 5 — Correct / Submission**
 
-![Binhexa 5](binhexa-5.jpeg)
+![Binhexa 5](binhexa/binhexa-5.jpeg)
 
 ---
 
@@ -496,19 +496,19 @@ Proses dilakukan secara bertahap sampai data terakhir menghasilkan flag:
 
 **Screenshot 1 — Tampilan Challenge**
 
-![Multi Code 1](multicode-1.jpeg)
+![Multi Code 1](multi-code/multicode-1.jpeg)
 
 **Screenshot 2 — Data Awal dan Proses Decoding**
 
-![Multi Code 2](multicode-2.jpeg)
+![Multi Code 2](multi-code/multicode-2.jpeg)
 
 **Screenshot 3 — Hasil**
 
-![Multi Code 3](multicode-3.jpeg)
+![Multi Code 3](multi-code/multicode-3.jpeg)
 
 **Screenshot 4 — Submission / Correct**
 
-![Multi Code 4](multicode-4.jpeg)
+![Multi Code 4](multi-code/multicode-4.jpeg)
 
 ---
 
@@ -580,19 +580,19 @@ nc xebec.cylabacademy.net 16606 | while read n; do printf "\$(printf '%03o' "$n"
 
 **Screenshot 1 — Tampilan Challenge**
 
-![Nice Netcat 1](nice-netcat-1.jpeg)
+![Nice Netcat 1](nice-netcat/nice-netcat-1.jpeg)
 
 **Screenshot 2 — Proses Pencarian**
 
-![Nice Netcat 2](nice-netcat-2.jpeg)
+![Nice Netcat 2](nice-netcat/nice-netcat-2.jpeg)
 
 **Screenshot 3 — Hasil**
 
-![Nice Netcat 3](nice-netcat-3.jpeg)
+![Nice Netcat 3](nice-netcat/nice-netcat-3.jpeg)
 
 **Screenshot 4 — Correct / Submission**
 
-![Nice Netcat 4](nice-netcat-4.jpeg)
+![Nice Netcat 4](nice-netcat/nice-netcat-4.jpeg)
 
 ---
 
@@ -657,19 +657,19 @@ ssh ctf-player@xebec.cylabacademy.net -p 12035
 
 **Screenshot 1 — Tampilan Challenge**
 
-![Super SSH 1](ssh-1.jpeg)
+![Super SSH 1](super-ssh/ssh-1.jpeg)
 
 **Screenshot 2 — Command SSH dan Proses Login**
 
-![Super SSH 2](ssh-2.jpeg)
+![Super SSH 2](super-ssh/ssh-2.jpeg)
 
 **Screenshot 3 — Hasil**
 
-![Super SSH 3](ssh-3.jpeg)
+![Super SSH 3](super-ssh/ssh-3.jpeg)
 
 **Screenshot 4 — Submission / Correct**
 
-![Super SSH 4](ssh-4.jpeg)
+![Super SSH 4](super-ssh/ssh-4.jpeg)
 
 ---
 
@@ -821,23 +821,23 @@ cat flag.txt
 
 **Screenshot 1 — Tampilan Challenge**
 
-![Piece by Piece 1](pbp-1.jpeg)
+![Piece by Piece 1](piece-by-piece/pbp-1.jpeg)
 
 **Screenshot 2 — Koneksi dan Isi Direktori**
 
-![Piece by Piece 2](pbp-2.jpeg)
+![Piece by Piece 2](piece-by-piece/pbp-2.jpeg)
 
 **Screenshot 3 — Menggabungkan dan Mengekstrak File**
 
-![Piece by Piece 3](pbp-3.jpeg)
+![Piece by Piece 3](piece-by-piece/pbp-3.jpeg)
 
 **Screenshot 4 — Hasil**
 
-![Piece by Piece 4](pbp-4.jpeg)
+![Piece by Piece 4](piece-by-piece/pbp-4.jpeg)
 
 **Screenshot 5 — Submission / Correct**
 
-![Piece by Piece 5](pbp-5.jpeg)
+![Piece by Piece 5](piece-by-piece/pbp-5.jpeg)
 
 ---
 
