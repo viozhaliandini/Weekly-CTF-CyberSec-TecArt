@@ -137,13 +137,17 @@ strings strings | grep -E 'pico|flag|\{|\}'
 
 ![Strings It 3](string-it-3.jpeg)
 
-**Screenshot 4 — Hasil**
+**Screenshot 4 — Menemukan Flag**
 
 ![Strings It 4](string-it-4.jpeg)
 
-**Screenshot 5 — Submission / Correct**
+**Screenshot 5 — Hasil**
 
 ![Strings It 5](string-it-5.jpeg)
+
+**Screenshot 6 — Submission / Correct**
+
+![Strings It 6](string-it-6.jpeg)
 
 ---
 
@@ -218,15 +222,15 @@ grep "FLAGPART" "/mnt/c/Users/Mybook Hype AMD/Downloads/server.log"
 
 **Screenshot 2 — Mencari FLAGPART**
 
-![Log Hunt 3](log-hunt-3.jpeg)
+![Log Hunt 3](log-hunt-2.jpeg)
 
 **Screenshot 3 — Hasil Pencarian**
 
-![Log Hunt 4](log-hunt-4.jpeg)
+![Log Hunt 4](log-hunt-3.jpeg)
 
 **Screenshot 4 — Submission / Correct**
 
-![Log Hunt 5](log-hunt-5.jpeg)
+![Log Hunt 5](log-hunt-4.jpeg)
 
 ---
 
