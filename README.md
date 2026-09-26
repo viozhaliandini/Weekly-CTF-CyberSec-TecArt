@@ -1,3 +1,6 @@
 # Weekly-CTF-CyberSec-TecArt
-Nama: Dewa Ayu Viozha Liandini
-NIM: 260530911032
+
+
+**NIM:** 260530911032  
+**Nama:** Dewa Ayu Viozha Liandini  
+**Divisi:** Cyber Security
